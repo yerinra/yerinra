@@ -4,7 +4,7 @@ I'm mainly interested in making a better user web experience.
 I'm currently making a next.js blog app for myself. 
 
 
-My Blog : <a href="yalef.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+My Blog : <a href="www.yalef.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 
 <b>Skills   :     </b>
