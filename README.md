@@ -1,7 +1,5 @@
 👋 Hi, I’m @yerinra! 
-I'm a front end web developer living in Seoul.
-I'm mainly interested in making a better user web experience. 
-I'm currently making a next.js blog app for myself. 
+I am a front end web developer living in Seoul.
 
 
 My Blog : <a href="https://yalef.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
