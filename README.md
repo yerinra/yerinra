@@ -15,8 +15,6 @@ Frontend Web Developer
 - Tools : Git, Github, Notion, Slack, Figma
 
 #### 📮 Contacts
-- Blog
-  - [Tistory Blog](https://yalef.tistory.com)
 - Email : yerinaleph@gmail.com
   
 
