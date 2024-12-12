@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @yerinra! 
-### YERIN RA
+yerinaleph@gmail.com
+
+<!---### YERIN RA
 Frontend Web Developer
 <br><br/>
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧 under construction... 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
@@ -20,7 +22,6 @@ Frontend Web Developer
   
 
 
-<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
